@@ -3,8 +3,6 @@ tags : Bible, hébreu
 cssclass : hébreu
 ---
 
-Test
-
 # Hebrew BHS accents
 
 [[BHS Mentions légales]]
