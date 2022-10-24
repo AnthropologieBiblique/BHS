@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 49
 - Isaïe 49
 - Is 49
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/49
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 49

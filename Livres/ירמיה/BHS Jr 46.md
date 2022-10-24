@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 46
 - Jérémie 46
 - Jr 46
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/46
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 46

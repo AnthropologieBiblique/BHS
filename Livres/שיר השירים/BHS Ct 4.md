@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שיר השירים 4
 - Cantique des cantiques 4
 - Ct 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/4
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שיר השירים 4

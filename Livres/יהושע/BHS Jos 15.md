@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יהושע 15
 - Josué 15
 - Jos 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/15
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יהושע 15

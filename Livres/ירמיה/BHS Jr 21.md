@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 21
 - Jérémie 21
 - Jr 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/21
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 21

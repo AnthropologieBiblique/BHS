@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 מלכים 15
 - 2 Rois 15
 - 2 R 15
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/15
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 מלכים 15

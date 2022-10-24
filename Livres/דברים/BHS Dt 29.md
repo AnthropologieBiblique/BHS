@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים 29
 - Deutéronome 29
 - Dt 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/29
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים 29

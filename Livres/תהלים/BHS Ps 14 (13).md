@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 14 (13)
 - Psaumes 14 (13)
 - Ps 14 (13)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/14_13
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 14 (13)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 63
 - Isaïe 63
 - Is 63
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/63
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 63

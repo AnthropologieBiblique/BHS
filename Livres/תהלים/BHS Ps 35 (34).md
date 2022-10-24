@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 35 (34)
 - Psaumes 35 (34)
 - Ps 35 (34)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/35_34
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 35 (34)

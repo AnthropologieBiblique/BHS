@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 5
 - Lévitique 5
 - Lv 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 5

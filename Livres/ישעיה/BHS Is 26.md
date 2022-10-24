@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 26
 - Isaïe 26
 - Is 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/26
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 26

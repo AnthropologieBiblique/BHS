@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 מלכים 8
 - 2 Rois 8
 - 2 R 8
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 מלכים 8

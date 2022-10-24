@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 מלכים 16
 - 2 Rois 16
 - 2 R 16
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/16
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 מלכים 16

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 18 (17)
 - Psaumes 18 (17)
 - Ps 18 (17)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/18_17
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 18 (17)

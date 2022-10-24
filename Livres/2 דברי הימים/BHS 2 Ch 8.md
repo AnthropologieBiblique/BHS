@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 דברי הימים 8
 - 2 Chroniques 8
 - 2 Ch 8
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 דברי הימים 8

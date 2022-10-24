@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 12
 - Genèse 12
 - Gn 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/12
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 12

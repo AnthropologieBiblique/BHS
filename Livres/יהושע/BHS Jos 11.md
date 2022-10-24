@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יהושע 11
 - Josué 11
 - Jos 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/11
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יהושע 11

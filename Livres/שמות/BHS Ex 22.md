@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 22
 - Exode 22
 - Ex 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/22
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 22

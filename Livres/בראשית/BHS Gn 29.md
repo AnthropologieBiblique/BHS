@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 29
 - Genèse 29
 - Gn 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/29
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 29

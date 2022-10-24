@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 16
 - Ézéchiel 16
 - Ez 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/16
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 16

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 22
 - Job 22
 - Jb 22
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/22
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 22

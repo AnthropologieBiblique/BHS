@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יונה
 - Jonas
 - Jon
@@ -8,6 +8,7 @@ tags :
 - Bible/Jon
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יונה

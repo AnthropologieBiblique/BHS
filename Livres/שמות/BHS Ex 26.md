@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 26
 - Exode 26
 - Ex 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/26
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 26

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שופטים
 - Juges
 - Jg
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שופטים

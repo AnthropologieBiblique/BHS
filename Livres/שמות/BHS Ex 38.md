@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 38
 - Exode 38
 - Ex 38
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/38
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 38

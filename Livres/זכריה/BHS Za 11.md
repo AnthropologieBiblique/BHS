@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - זכריה 11
 - Zacharie 11
 - Za 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/11
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # זכריה 11

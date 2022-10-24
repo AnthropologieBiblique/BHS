@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 60
 - Isaïe 60
 - Is 60
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/60
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 60

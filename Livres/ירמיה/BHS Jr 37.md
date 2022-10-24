@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 37
 - Jérémie 37
 - Jr 37
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/37
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 37

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים 10
 - Deutéronome 10
 - Dt 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/10
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים 10

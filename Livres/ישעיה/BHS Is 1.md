@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 1
 - Isaïe 1
 - Is 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/1
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 1

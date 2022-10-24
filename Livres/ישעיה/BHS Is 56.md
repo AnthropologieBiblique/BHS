@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 56
 - Isaïe 56
 - Is 56
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/56
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 56

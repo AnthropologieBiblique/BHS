@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - משלי 24
 - Proverbes 24
 - Pr 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/24
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # משלי 24

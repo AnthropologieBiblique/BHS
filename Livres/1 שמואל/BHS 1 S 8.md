@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 שמואל 8
 - 1 Samuel 8
 - 1 S 8
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 שמואל 8

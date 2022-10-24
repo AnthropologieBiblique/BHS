@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 מלכים 21
 - 2 Rois 21
 - 2 R 21
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/21
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 מלכים 21

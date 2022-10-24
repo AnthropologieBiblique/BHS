@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 15
 - Jérémie 15
 - Jr 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/15
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 15

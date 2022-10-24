@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 6
 - Psaumes 6
 - Ps 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 6

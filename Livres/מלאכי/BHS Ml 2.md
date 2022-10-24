@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - מלאכי 2
 - Malachie 2
 - Ml 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ml/2
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # מלאכי 2

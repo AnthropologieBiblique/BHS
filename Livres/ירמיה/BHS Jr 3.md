@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 3
 - Jérémie 3
 - Jr 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 3

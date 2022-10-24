@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 4
 - Exode 4
 - Ex 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/4
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 4

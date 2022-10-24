@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 23
 - Lévitique 23
 - Lv 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/23
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 23

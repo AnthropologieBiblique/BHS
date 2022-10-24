@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שופטים 21
 - Juges 21
 - Jg 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/21
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שופטים 21

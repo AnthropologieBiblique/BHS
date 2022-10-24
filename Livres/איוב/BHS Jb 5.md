@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 5
 - Job 5
 - Jb 5
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 5

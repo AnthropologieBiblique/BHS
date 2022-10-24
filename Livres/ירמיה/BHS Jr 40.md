@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 40
 - Jérémie 40
 - Jr 40
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/40
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 40

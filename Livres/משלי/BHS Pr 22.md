@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - משלי 22
 - Proverbes 22
 - Pr 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/22
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # משלי 22

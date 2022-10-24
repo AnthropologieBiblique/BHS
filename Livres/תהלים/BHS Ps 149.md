@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 149
 - Psaumes 149
 - Ps 149
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/149
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 149

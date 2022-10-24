@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 35
 - Ézéchiel 35
 - Ez 35
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/35
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 35

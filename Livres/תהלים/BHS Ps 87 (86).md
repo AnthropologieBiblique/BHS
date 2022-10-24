@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 87 (86)
 - Psaumes 87 (86)
 - Ps 87 (86)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/87_86
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 87 (86)

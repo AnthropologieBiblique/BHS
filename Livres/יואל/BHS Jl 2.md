@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יואל 2
 - Joël 2
 - Jl 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Jl/2
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יואל 2

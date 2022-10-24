@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 4
 - Lévitique 4
 - Lv 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/4
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 4

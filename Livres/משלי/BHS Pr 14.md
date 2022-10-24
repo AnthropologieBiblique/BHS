@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - משלי 14
 - Proverbes 14
 - Pr 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/14
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # משלי 14

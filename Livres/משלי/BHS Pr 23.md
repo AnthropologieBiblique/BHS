@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - משלי 23
 - Proverbes 23
 - Pr 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/23
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # משלי 23

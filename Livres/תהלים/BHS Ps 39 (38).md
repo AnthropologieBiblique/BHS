@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 39 (38)
 - Psaumes 39 (38)
 - Ps 39 (38)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/39_38
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 39 (38)

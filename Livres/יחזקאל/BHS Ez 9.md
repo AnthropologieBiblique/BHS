@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 9
 - Ézéchiel 9
 - Ez 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 9

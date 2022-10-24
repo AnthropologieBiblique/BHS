@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 9
 - Job 9
 - Jb 9
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 9

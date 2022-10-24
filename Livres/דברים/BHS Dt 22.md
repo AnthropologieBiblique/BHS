@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים 22
 - Deutéronome 22
 - Dt 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/22
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים 22

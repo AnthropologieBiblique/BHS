@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 20
 - Exode 20
 - Ex 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/20
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 20

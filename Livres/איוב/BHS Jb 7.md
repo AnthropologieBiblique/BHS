@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 7
 - Job 7
 - Jb 7
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/7
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 7

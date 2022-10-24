@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 65 (64)
 - Psaumes 65 (64)
 - Ps 65 (64)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/65_64
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 65 (64)

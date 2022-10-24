@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 12
 - Exode 12
 - Ex 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/12
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 12

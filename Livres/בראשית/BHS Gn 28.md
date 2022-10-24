@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 28
 - Genèse 28
 - Gn 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/28
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 28

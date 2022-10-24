@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - זכריה 3
 - Zacharie 3
 - Za 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # זכריה 3

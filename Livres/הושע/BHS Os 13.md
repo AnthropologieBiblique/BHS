@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - הושע 13
 - Osée 13
 - Os 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/13
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # הושע 13

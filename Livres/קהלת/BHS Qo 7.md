@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - קהלת 7
 - Ecclésiaste 7
 - Qo 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/7
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # קהלת 7

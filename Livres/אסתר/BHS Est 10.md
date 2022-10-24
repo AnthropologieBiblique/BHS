@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - אסתר 10
 - Esther 10
 - Est 10
@@ -7,6 +7,7 @@ tags :
 - Bible/Est/10
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # אסתר 10

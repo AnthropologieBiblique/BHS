@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - הושע 3
 - Osée 3
 - Os 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # הושע 3

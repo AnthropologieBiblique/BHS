@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 47
 - Ézéchiel 47
 - Ez 47
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/47
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 47

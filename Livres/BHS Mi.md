@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - מיכה
 - Michée
 - Mi
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # מיכה

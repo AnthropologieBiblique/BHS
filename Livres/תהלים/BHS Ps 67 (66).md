@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 67 (66)
 - Psaumes 67 (66)
 - Ps 67 (66)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/67_66
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 67 (66)

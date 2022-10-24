@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שופטים 16
 - Juges 16
 - Jg 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/16
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שופטים 16

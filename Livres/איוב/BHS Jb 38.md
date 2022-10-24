@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 38
 - Job 38
 - Jb 38
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/38
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 38

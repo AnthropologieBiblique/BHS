@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 2
 - Genèse 2
 - Gn 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/2
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 2

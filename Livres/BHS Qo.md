@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - קהלת
 - Ecclésiaste
 - Qo
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # קהלת

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 6
 - Ézéchiel 6
 - Ez 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 6

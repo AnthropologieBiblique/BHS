@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 37
 - Exode 37
 - Ex 37
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/37
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 37

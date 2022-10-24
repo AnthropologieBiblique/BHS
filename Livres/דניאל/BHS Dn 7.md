@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דניאל 7
 - Daniel 7
 - Dn 7
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/7
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דניאל 7

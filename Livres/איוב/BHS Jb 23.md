@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 23
 - Job 23
 - Jb 23
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/23
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 23

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 11
 - Ézéchiel 11
 - Ez 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/11
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 11

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - זכריה 13
 - Zacharie 13
 - Za 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/13
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # זכריה 13

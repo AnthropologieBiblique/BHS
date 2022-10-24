@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יהושע 20
 - Josué 20
 - Jos 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/20
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יהושע 20

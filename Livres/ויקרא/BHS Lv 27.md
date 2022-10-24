@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 27
 - Lévitique 27
 - Lv 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/27
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 27

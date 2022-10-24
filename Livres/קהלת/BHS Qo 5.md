@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - קהלת 5
 - Ecclésiaste 5
 - Qo 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # קהלת 5

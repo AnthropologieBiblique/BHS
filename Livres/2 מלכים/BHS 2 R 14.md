@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 מלכים 14
 - 2 Rois 14
 - 2 R 14
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/14
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 מלכים 14

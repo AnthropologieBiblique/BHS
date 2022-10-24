@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 15
 - Exode 15
 - Ex 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/15
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 15

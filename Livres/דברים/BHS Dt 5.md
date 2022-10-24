@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים 5
 - Deutéronome 5
 - Dt 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 40
 - Exode 40
 - Ex 40
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/40
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 40

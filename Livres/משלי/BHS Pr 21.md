@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - משלי 21
 - Proverbes 21
 - Pr 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/21
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # משלי 21

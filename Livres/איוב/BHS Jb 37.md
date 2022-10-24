@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 37
 - Job 37
 - Jb 37
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/37
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 37

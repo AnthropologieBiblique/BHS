@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 35
 - Exode 35
 - Ex 35
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/35
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 35

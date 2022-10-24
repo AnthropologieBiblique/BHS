@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 7
 - Psaumes 7
 - Ps 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/7
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 7

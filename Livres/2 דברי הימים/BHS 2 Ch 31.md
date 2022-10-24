@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 דברי הימים 31
 - 2 Chroniques 31
 - 2 Ch 31
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/31
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 דברי הימים 31

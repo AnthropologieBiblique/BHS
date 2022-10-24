@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - משלי 1
 - Proverbes 1
 - Pr 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/1
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # משלי 1

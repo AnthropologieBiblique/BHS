@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 40
 - Ézéchiel 40
 - Ez 40
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/40
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 40

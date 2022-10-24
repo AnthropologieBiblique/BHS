@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - הושע 5
 - Osée 5
 - Os 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # הושע 5

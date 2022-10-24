@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים 20
 - Deutéronome 20
 - Dt 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/20
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים 20

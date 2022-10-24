@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 4
 - Jérémie 4
 - Jr 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/4
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 4

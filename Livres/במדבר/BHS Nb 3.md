@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 3
 - Nombres 3
 - Nb 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 3

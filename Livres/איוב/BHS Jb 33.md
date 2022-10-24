@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 33
 - Job 33
 - Jb 33
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/33
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 33

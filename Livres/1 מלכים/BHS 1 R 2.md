@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 מלכים 2
 - 1 Rois 2
 - 1 R 2
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/2
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 מלכים 2

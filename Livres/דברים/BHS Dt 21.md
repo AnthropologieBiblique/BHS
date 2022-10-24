@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים 21
 - Deutéronome 21
 - Dt 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/21
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים 21

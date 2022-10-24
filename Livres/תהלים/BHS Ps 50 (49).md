@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 50 (49)
 - Psaumes 50 (49)
 - Ps 50 (49)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/50_49
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 50 (49)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 דברי הימים
 - 2 Chroniques
 - 2 Ch
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 דברי הימים

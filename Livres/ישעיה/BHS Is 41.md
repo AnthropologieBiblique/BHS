@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 41
 - Isaïe 41
 - Is 41
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/41
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 41

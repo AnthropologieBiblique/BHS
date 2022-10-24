@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 7
 - Jérémie 7
 - Jr 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/7
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 7

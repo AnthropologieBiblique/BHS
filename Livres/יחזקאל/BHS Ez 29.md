@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 29
 - Ézéchiel 29
 - Ez 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/29
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 29

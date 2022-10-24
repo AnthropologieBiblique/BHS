@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 מלכים 5
 - 1 Rois 4
 - 1 R 4
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/4
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 מלכים 5

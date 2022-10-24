@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 29
 - Exode 29
 - Ex 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/29
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 29

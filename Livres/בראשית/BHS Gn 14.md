@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 14
 - Genèse 14
 - Gn 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/14
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 14

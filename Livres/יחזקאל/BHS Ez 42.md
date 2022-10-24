@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 42
 - Ézéchiel 42
 - Ez 42
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/42
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 42

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 90 (89)
 - Psaumes 90 (89)
 - Ps 90 (89)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/90_89
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 90 (89)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 83 (82)
 - Psaumes 83 (82)
 - Ps 83 (82)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/83_82
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 83 (82)

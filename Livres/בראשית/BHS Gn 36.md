@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 36
 - Genèse 36
 - Gn 36
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/36
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 36

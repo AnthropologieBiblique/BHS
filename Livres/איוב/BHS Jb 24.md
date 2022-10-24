@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 24
 - Job 24
 - Jb 24
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/24
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 24

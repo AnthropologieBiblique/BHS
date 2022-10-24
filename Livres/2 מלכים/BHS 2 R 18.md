@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 מלכים 18
 - 2 Rois 18
 - 2 R 18
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/18
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 מלכים 18

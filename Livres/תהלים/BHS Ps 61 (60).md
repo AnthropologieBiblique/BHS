@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 61 (60)
 - Psaumes 61 (60)
 - Ps 61 (60)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/61_60
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 61 (60)

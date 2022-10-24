@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים 25
 - Deutéronome 25
 - Dt 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/25
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים 25

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איכה 3
 - Lamentations 3
 - Lm 3
@@ -7,6 +7,7 @@ tags :
 - Bible/Lm/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איכה 3

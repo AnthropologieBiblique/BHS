@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 9
 - Isaïe 9
 - Is 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 9

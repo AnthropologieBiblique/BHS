@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 מלכים 16
 - 1 Rois 16
 - 1 R 16
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/16
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 מלכים 16

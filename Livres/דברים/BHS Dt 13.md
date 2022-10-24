@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים 13
 - Deutéronome 12
 - Dt 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/12
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים 13

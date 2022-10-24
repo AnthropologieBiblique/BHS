@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 85 (84)
 - Psaumes 85 (84)
 - Ps 85 (84)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/85_84
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 85 (84)

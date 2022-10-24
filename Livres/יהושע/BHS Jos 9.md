@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יהושע 9
 - Josué 9
 - Jos 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יהושע 9

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 מלכים 17
 - 2 Rois 17
 - 2 R 17
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/17
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 מלכים 17

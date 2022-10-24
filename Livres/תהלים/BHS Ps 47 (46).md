@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 47 (46)
 - Psaumes 47 (46)
 - Ps 47 (46)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/47_46
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 47 (46)

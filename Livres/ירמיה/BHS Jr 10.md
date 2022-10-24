@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 10
 - Jérémie 10
 - Jr 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/10
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 10

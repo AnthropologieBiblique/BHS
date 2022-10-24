@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 16
 - Lévitique 16
 - Lv 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/16
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 16

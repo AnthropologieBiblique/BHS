@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 5
 - Isaïe 5
 - Is 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 5

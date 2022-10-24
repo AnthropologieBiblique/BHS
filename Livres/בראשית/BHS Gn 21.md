@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 21
 - Genèse 21
 - Gn 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/21
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 21

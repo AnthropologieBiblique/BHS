@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 15
 - Isaïe 15
 - Is 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/15
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 15

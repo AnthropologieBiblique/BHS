@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 דברי הימים
 - 1 Chroniques
 - 1 Ch
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 דברי הימים

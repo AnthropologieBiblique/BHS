@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 3
 - Exode 3
 - Ex 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איכה
 - Lamentations
 - Lm
@@ -7,6 +7,7 @@ tags :
 - Bible/Lm
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איכה

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יהושע 22
 - Josué 22
 - Jos 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/22
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יהושע 22

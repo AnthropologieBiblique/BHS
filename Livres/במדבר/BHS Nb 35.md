@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 35
 - Nombres 35
 - Nb 35
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/35
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 35

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - אסתר 5
 - Esther 5
 - Est 5
@@ -7,6 +7,7 @@ tags :
 - Bible/Est/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # אסתר 5

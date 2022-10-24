@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 34
 - Job 34
 - Jb 34
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/34
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 34

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ונחמיה 3
 - Néhémie 3
 - Ne 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ונחמיה 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 שמואל
 - 2 Samuel
 - 2 S
@@ -7,6 +7,7 @@ tags :
 - Bible/2S
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 שמואל

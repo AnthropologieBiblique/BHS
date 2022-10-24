@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 6
 - Genèse 6
 - Gn 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 6

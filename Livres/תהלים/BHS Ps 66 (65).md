@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 66 (65)
 - Psaumes 66 (65)
 - Ps 66 (65)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/66_65
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 66 (65)

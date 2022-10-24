@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יהושע 10
 - Josué 10
 - Jos 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/10
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יהושע 10

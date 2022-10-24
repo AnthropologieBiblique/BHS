@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 דברי הימים 6
 - 2 Chroniques 6
 - 2 Ch 6
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 דברי הימים 6

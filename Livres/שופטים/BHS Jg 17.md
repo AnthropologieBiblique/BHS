@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שופטים 17
 - Juges 17
 - Jg 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/17
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שופטים 17

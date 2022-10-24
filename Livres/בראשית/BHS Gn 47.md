@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 47
 - Genèse 47
 - Gn 47
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/47
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 47

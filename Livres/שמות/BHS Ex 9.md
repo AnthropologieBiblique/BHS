@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 9
 - Exode 9
 - Ex 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 9

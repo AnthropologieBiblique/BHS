@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - אסתר 2
 - Esther 2
 - Est 2
@@ -7,6 +7,7 @@ tags :
 - Bible/Est/2
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # אסתר 2

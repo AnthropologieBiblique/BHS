@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים
 - Deutéronome
 - Dt
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים

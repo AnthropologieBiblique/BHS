@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 6
 - Jérémie 6
 - Jr 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 6

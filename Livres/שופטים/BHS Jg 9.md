@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שופטים 9
 - Juges 9
 - Jg 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שופטים 9

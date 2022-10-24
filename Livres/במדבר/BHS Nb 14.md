@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 14
 - Nombres 14
 - Nb 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/14
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 14

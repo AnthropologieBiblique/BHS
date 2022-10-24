@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא
 - Lévitique
 - Lv
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא

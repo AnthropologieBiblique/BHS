@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 36
 - Exode 36
 - Ex 36
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/36
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 36

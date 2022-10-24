@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 9
 - Nombres 9
 - Nb 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 9

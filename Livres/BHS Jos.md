@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יהושע
 - Josué
 - Jos
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יהושע

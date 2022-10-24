@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 15
 - Job 15
 - Jb 15
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/15
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 15

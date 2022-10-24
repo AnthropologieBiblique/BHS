@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - רות 3
 - Ruth 3
 - Rt 3
@@ -7,6 +7,7 @@ tags :
 - Bible/Rt/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # רות 3

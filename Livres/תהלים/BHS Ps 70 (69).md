@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 70 (69)
 - Psaumes 70 (69)
 - Ps 70 (69)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/70_69
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 70 (69)

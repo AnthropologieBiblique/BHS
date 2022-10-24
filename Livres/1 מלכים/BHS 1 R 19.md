@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 מלכים 19
 - 1 Rois 19
 - 1 R 19
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/19
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 מלכים 19

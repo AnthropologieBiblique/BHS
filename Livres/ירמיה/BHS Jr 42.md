@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 42
 - Jérémie 42
 - Jr 42
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/42
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 42

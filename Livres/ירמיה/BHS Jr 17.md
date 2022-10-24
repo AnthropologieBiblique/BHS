@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 17
 - Jérémie 17
 - Jr 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/17
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 17

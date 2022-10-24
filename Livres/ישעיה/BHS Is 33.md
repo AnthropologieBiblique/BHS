@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 33
 - Isaïe 33
 - Is 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/33
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 33

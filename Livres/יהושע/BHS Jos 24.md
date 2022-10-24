@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יהושע 24
 - Josué 24
 - Jos 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/24
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יהושע 24

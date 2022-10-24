@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים 1
 - Deutéronome 1
 - Dt 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/1
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים 1

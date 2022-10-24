@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 27
 - Exode 27
 - Ex 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/27
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 27

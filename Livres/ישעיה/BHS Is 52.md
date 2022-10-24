@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 52
 - Isaïe 52
 - Is 52
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/52
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 52

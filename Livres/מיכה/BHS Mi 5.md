@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - מיכה 5
 - Michée 5
 - Mi 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # מיכה 5

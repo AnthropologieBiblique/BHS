@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 10
 - Exode 10
 - Ex 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/10
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 10

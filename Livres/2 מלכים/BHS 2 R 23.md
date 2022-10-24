@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 מלכים 23
 - 2 Rois 23
 - 2 R 23
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/23
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 מלכים 23

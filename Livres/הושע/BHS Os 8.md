@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - הושע 8
 - Osée 8
 - Os 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # הושע 8

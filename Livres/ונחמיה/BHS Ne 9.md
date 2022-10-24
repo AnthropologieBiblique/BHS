@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ונחמיה 9
 - Néhémie 9
 - Ne 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ונחמיה 9

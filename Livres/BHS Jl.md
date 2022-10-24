@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יואל
 - Joël
 - Jl
@@ -8,6 +8,7 @@ tags :
 - Bible/Jl
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יואל

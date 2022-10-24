@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שופטים 12
 - Juges 12
 - Jg 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/12
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שופטים 12

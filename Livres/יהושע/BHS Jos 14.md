@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יהושע 14
 - Josué 14
 - Jos 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/14
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יהושע 14

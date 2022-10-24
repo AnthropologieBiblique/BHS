@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 13
 - Genèse 13
 - Gn 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/13
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 13

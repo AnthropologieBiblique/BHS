@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - קהלת 10
 - Ecclésiaste 10
 - Qo 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/10
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # קהלת 10

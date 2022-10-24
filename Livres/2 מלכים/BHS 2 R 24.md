@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 מלכים 24
 - 2 Rois 24
 - 2 R 24
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/24
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 מלכים 24

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 43
 - Ézéchiel 43
 - Ez 43
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/43
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 43

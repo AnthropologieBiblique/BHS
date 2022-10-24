@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 150
 - Psaumes 150
 - Ps 150
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/150
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 150

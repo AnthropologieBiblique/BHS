@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 61
 - Isaïe 61
 - Is 61
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/61
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 61

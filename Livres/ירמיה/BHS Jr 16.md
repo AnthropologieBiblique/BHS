@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 16
 - Jérémie 16
 - Jr 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/16
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 16

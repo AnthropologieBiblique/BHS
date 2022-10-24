@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 33
 - Ézéchiel 33
 - Ez 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/33
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 33

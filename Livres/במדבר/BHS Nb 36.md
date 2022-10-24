@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 36
 - Nombres 36
 - Nb 36
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/36
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 36

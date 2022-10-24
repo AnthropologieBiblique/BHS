@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 13
 - Isaïe 13
 - Is 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/13
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 13

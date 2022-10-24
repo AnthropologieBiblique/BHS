@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שופטים 15
 - Juges 15
 - Jg 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/15
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שופטים 15

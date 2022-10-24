@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 35
 - Genèse 35
 - Gn 35
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/35
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 35

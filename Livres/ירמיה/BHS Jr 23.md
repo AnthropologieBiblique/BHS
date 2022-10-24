@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 23
 - Jérémie 23
 - Jr 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/23
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 23

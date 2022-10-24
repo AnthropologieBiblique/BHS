@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 שמואל 11
 - 1 Samuel 11
 - 1 S 11
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/11
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 שמואל 11

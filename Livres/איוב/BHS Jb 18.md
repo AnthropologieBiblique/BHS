@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 18
 - Job 18
 - Jb 18
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/18
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 18

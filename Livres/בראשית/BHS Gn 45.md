@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 45
 - Genèse 45
 - Gn 45
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/45
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 45

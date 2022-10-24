@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - עמוס 7
 - Amos 7
 - Am 7
@@ -7,6 +7,7 @@ tags :
 - Bible/Am/7
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # עמוס 7

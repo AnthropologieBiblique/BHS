@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 29
 - Jérémie 29
 - Jr 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/29
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 29

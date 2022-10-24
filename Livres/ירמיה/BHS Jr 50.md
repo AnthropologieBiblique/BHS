@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 50
 - Jérémie 50
 - Jr 50
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/50
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 50

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - עמוס
 - Amos
 - Am
@@ -7,6 +7,7 @@ tags :
 - Bible/Am
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # עמוס

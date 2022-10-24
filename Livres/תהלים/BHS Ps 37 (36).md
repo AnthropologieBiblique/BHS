@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 37 (36)
 - Psaumes 37 (36)
 - Ps 37 (36)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/37_36
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 37 (36)

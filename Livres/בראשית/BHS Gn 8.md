@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 8
 - Genèse 8
 - Gn 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 8

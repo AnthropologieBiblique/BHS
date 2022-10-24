@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 37
 - Genèse 37
 - Gn 37
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/37
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 37

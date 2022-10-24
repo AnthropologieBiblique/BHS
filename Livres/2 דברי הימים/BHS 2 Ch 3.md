@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 דברי הימים 3
 - 2 Chroniques 3
 - 2 Ch 3
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 דברי הימים 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - משלי 8
 - Proverbes 8
 - Pr 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # משלי 8

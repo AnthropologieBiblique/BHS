@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 30
 - Nombres 29
 - Nb 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/29
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 30

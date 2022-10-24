@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 דברי הימים 28
 - 2 Chroniques 28
 - 2 Ch 28
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/28
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 דברי הימים 28

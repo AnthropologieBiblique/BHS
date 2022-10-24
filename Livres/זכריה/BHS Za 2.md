@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - זכריה 2
 - Zacharie 1
 - Za 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/1
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # זכריה 2

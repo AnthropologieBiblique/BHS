@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איכה 2
 - Lamentations 2
 - Lm 2
@@ -7,6 +7,7 @@ tags :
 - Bible/Lm/2
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איכה 2

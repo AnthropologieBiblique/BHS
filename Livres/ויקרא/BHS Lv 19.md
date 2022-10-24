@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 19
 - Lévitique 19
 - Lv 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/19
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 19

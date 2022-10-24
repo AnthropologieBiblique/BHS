@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - מיכה 6
 - Michée 6
 - Mi 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # מיכה 6

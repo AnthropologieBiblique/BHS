@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 45
 - Ézéchiel 45
 - Ez 45
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/45
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 45

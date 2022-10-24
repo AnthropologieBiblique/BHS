@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 15
 - Ézéchiel 15
 - Ez 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/15
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 15

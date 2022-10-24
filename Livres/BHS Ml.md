@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - מלאכי
 - Malachie
 - Ml
@@ -8,6 +8,7 @@ tags :
 - Bible/Ml
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # מלאכי

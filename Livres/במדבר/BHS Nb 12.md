@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 12
 - Nombres 12
 - Nb 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/12
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 12

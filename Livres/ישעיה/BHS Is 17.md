@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 17
 - Isaïe 17
 - Is 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/17
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 17

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 31
 - Jérémie 31
 - Jr 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/31
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 31

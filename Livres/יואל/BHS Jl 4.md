@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יואל 4
 - Joël 3
 - Jl 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Jl/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יואל 4

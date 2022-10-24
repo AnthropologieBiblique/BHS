@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 מלכים
 - 1 Rois
 - 1 R
@@ -8,6 +8,7 @@ tags :
 - Bible/1R
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 מלכים

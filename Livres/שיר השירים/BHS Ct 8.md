@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שיר השירים 8
 - Cantique des cantiques 8
 - Ct 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שיר השירים 8

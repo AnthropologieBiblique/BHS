@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 29
 - Job 29
 - Jb 29
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/29
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 29

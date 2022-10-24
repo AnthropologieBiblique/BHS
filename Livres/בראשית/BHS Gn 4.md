@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 4
 - Genèse 4
 - Gn 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/4
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 4

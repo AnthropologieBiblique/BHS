@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 שמואל 19
 - 2 Samuel 18
 - 2 S 18
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/18
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 שמואל 19

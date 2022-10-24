@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 19
 - Exode 19
 - Ex 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/19
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 19

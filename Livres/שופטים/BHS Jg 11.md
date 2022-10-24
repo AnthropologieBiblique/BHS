@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שופטים 11
 - Juges 11
 - Jg 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/11
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שופטים 11

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - עזרא 5
 - Esdras 5
 - Esd 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # עזרא 5

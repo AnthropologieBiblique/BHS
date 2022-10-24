@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 10
 - Genèse 10
 - Gn 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/10
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 10

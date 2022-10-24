@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 מלכים 9
 - 2 Rois 9
 - 2 R 9
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 מלכים 9

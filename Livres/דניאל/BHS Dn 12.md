@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דניאל 12
 - Daniel 12
 - Dn 12
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/12
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דניאל 12

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 14
 - Job 14
 - Jb 14
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/14
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 14

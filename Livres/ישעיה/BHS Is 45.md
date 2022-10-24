@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 45
 - Isaïe 45
 - Is 45
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/45
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 45

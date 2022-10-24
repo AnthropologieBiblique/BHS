@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 72 (71)
 - Psaumes 72 (71)
 - Ps 72 (71)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/72_71
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 72 (71)

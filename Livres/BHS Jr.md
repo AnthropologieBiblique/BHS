@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה
 - Jérémie
 - Jr
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה

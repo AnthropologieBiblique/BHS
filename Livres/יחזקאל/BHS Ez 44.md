@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 44
 - Ézéchiel 44
 - Ez 44
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/44
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 44

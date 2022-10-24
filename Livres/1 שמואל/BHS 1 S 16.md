@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 שמואל 16
 - 1 Samuel 16
 - 1 S 16
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/16
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 שמואל 16

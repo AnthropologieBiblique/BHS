@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 38
 - Ézéchiel 38
 - Ez 38
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/38
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 38

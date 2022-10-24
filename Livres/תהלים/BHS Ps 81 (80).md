@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 81 (80)
 - Psaumes 81 (80)
 - Ps 81 (80)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/81_80
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 81 (80)

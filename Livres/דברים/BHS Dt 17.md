@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים 17
 - Deutéronome 17
 - Dt 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/17
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים 17

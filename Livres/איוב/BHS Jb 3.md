@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 3
 - Job 3
 - Jb 3
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 3

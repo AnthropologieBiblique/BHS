@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דניאל 10
 - Daniel 10
 - Dn 10
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/10
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דניאל 10

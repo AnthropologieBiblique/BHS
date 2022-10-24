@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 25
 - Ézéchiel 25
 - Ez 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/25
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 25

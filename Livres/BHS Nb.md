@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר
 - Nombres
 - Nb
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר

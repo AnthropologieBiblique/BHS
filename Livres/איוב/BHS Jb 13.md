@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 13
 - Job 13
 - Jb 13
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/13
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 13

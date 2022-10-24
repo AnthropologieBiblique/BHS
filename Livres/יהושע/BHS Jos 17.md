@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יהושע 17
 - Josué 17
 - Jos 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/17
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יהושע 17

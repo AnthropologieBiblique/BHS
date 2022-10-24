@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 23
 - Genèse 23
 - Gn 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/23
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 23

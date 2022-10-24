@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - עזרא 1
 - Esdras 1
 - Esd 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/1
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # עזרא 1

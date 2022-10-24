@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - זכריה 6
 - Zacharie 6
 - Za 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # זכריה 6

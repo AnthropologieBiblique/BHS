@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 23
 - Nombres 23
 - Nb 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/23
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 23

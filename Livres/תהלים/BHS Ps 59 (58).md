@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 59 (58)
 - Psaumes 59 (58)
 - Ps 59 (58)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/59_58
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 59 (58)

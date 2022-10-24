@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - נחום 1
 - Nahum 1
 - Na 1
@@ -7,6 +7,7 @@ tags :
 - Bible/Na/1
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # נחום 1

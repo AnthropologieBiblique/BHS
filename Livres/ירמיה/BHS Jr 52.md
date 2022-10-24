@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 52
 - Jérémie 52
 - Jr 52
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/52
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 52

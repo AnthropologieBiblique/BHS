@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יהושע 21
 - Josué 21
 - Jos 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/21
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יהושע 21

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 58 (57)
 - Psaumes 58 (57)
 - Ps 58 (57)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/58_57
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 58 (57)

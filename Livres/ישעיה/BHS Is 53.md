@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 53
 - Isaïe 53
 - Is 53
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/53
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 53

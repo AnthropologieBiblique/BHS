@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 דברי הימים 36
 - 2 Chroniques 36
 - 2 Ch 36
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/36
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 דברי הימים 36

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 41
 - Ézéchiel 41
 - Ez 41
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/41
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 41

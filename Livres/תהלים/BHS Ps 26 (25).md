@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 26 (25)
 - Psaumes 26 (25)
 - Ps 26 (25)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/26_25
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 26 (25)

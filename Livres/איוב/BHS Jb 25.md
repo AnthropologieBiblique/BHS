@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 25
 - Job 25
 - Jb 25
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/25
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 25

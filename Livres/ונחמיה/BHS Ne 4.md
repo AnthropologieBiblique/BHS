@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ונחמיה 4
 - Néhémie 4
 - Ne 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/4
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ונחמיה 4

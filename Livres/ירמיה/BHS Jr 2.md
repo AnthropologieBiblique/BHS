@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 2
 - Jérémie 2
 - Jr 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/2
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 2

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 6
 - Lévitique 6
 - Lv 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 6

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 12
 - Ézéchiel 12
 - Ez 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/12
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 12

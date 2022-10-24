@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 20
 - Lévitique 20
 - Lv 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/20
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 20

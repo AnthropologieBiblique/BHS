@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 30
 - Jérémie 30
 - Jr 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/30
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 30

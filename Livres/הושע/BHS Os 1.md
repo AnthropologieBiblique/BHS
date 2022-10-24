@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - הושע 1
 - Osée 1
 - Os 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/1
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # הושע 1

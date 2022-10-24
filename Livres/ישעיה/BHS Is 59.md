@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 59
 - Isaïe 59
 - Is 59
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/59
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 59

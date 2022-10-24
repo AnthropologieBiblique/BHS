@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 שמואל 23
 - 2 Samuel 23
 - 2 S 23
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/23
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 שמואל 23

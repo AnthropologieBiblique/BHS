@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 9
 - Genèse 9
 - Gn 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 9

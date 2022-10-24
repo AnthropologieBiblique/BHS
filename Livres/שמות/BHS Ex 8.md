@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 8
 - Exode 8
 - Ex 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 8

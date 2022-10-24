@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 53 (52)
 - Psaumes 53 (52)
 - Ps 53 (52)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/53_52
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 53 (52)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 48
 - Genèse 48
 - Gn 48
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/48
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 48

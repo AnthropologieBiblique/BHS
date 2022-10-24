@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 שמואל 4
 - 2 Samuel 4
 - 2 S 4
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/4
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 שמואל 4

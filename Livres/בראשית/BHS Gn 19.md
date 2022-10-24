@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 19
 - Genèse 19
 - Gn 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/19
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 19

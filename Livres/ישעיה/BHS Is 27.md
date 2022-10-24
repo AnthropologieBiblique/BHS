@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 27
 - Isaïe 27
 - Is 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/27
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 27

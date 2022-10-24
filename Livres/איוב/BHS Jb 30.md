@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 30
 - Job 30
 - Jb 30
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/30
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 30

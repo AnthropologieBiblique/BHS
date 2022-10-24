@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - משלי 29
 - Proverbes 29
 - Pr 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/29
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # משלי 29

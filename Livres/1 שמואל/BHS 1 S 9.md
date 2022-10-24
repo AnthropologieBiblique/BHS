@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 שמואל 9
 - 1 Samuel 9
 - 1 S 9
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 שמואל 9

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 מלכים 7
 - 2 Rois 7
 - 2 R 7
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/7
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 מלכים 7

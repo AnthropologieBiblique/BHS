@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שופטים 5
 - Juges 5
 - Jg 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שופטים 5

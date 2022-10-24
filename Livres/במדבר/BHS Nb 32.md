@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 32
 - Nombres 32
 - Nb 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/32
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 32

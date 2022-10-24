@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 שמואל 17
 - 1 Samuel 17
 - 1 S 17
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/17
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 שמואל 17

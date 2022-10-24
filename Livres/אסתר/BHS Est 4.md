@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - אסתר 4
 - Esther 4
 - Est 4
@@ -7,6 +7,7 @@ tags :
 - Bible/Est/4
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # אסתר 4

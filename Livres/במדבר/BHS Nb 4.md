@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 4
 - Nombres 4
 - Nb 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/4
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 4

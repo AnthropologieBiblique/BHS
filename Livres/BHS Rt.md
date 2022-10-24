@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - רות
 - Ruth
 - Rt
@@ -7,6 +7,7 @@ tags :
 - Bible/Rt
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # רות

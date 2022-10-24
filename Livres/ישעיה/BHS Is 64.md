@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 64
 - Isaïe 64
 - Is 64
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/64
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 64

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 39
 - Isaïe 39
 - Is 39
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/39
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 39

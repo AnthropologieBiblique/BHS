@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 26
 - Lévitique 26
 - Lv 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/26
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 26

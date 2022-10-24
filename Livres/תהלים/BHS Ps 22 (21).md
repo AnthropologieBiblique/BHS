@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 22 (21)
 - Psaumes 22 (21)
 - Ps 22 (21)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/22_21
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 22 (21)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 28
 - Jérémie 28
 - Jr 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/28
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 28

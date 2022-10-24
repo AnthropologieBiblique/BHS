@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 שמואל 12
 - 2 Samuel 12
 - 2 S 12
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/12
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 שמואל 12

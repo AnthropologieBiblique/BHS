@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 דברי הימים 25
 - 2 Chroniques 25
 - 2 Ch 25
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/25
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 דברי הימים 25

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 34
 - Isaïe 34
 - Is 34
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/34
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 34

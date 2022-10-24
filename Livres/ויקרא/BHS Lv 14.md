@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 14
 - Lévitique 14
 - Lv 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/14
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 14

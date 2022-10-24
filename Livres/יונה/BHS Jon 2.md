@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יונה 2
 - Jonas 1
 - Jon 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Jon/1
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יונה 2

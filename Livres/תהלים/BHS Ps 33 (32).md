@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 33 (32)
 - Psaumes 33 (32)
 - Ps 33 (32)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/33_32
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 33 (32)

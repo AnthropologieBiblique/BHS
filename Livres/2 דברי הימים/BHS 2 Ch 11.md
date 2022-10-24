@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 דברי הימים 11
 - 2 Chroniques 11
 - 2 Ch 11
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/11
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 דברי הימים 11

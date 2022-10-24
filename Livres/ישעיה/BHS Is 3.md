@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 3
 - Isaïe 3
 - Is 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 3

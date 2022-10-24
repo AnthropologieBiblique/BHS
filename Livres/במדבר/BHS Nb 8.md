@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 8
 - Nombres 8
 - Nb 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 8

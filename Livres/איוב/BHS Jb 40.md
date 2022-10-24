@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 40
 - Job 40
 - Jb 40
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/40
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 40

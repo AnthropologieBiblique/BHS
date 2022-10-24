@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שופטים 1
 - Juges 1
 - Jg 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/1
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שופטים 1

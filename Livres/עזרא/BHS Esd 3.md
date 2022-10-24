@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - עזרא 3
 - Esdras 3
 - Esd 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # עזרא 3

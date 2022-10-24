@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - אסתר
 - Esther
 - Est
@@ -7,6 +7,7 @@ tags :
 - Bible/Est
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # אסתר

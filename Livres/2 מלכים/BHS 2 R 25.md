@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 מלכים 25
 - 2 Rois 25
 - 2 R 25
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/25
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 מלכים 25

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ונחמיה 1
 - Néhémie 1
 - Ne 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/1
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ונחמיה 1

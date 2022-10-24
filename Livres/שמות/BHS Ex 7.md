@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 7
 - Exode 7
 - Ex 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/7
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 7

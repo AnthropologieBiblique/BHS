@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 44
 - Jérémie 44
 - Jr 44
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/44
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 44

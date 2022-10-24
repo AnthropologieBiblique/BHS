@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - מיכה 7
 - Michée 7
 - Mi 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/7
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # מיכה 7

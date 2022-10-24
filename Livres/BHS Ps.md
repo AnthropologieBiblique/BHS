@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים
 - Psaumes
 - Ps
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים

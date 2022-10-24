@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 11
 - Job 11
 - Jb 11
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/11
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 11

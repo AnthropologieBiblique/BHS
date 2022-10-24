@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 31
 - Exode 31
 - Ex 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/31
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 31

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 12
 - Isaïe 12
 - Is 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/12
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 12

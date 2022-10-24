@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - עזרא 8
 - Esdras 8
 - Esd 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # עזרא 8

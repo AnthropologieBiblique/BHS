@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 30
 - Exode 30
 - Ex 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/30
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 30

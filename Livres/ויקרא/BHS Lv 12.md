@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 12
 - Lévitique 12
 - Lv 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/12
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 12

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 8
 - Ézéchiel 8
 - Ez 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 8

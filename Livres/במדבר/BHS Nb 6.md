@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 6
 - Nombres 6
 - Nb 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 6

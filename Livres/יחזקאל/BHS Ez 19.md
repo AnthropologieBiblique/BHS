@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 19
 - Ézéchiel 19
 - Ez 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/19
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 19

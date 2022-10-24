@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 24
 - Nombres 24
 - Nb 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/24
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 24

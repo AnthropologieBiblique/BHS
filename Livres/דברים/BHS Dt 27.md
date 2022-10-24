@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים 27
 - Deutéronome 27
 - Dt 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/27
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים 27

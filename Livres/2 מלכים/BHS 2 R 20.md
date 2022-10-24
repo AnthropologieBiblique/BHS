@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 מלכים 20
 - 2 Rois 20
 - 2 R 20
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/20
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 מלכים 20

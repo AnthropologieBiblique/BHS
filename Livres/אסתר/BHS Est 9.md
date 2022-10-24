@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - אסתר 9
 - Esther 9
 - Est 9
@@ -7,6 +7,7 @@ tags :
 - Bible/Est/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # אסתר 9

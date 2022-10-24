@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 11
 - Jérémie 11
 - Jr 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/11
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 11

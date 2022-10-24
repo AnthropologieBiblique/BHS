@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - עזרא 7
 - Esdras 7
 - Esd 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/7
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # עזרא 7

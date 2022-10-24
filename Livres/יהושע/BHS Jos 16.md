@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יהושע 16
 - Josué 16
 - Jos 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/16
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יהושע 16

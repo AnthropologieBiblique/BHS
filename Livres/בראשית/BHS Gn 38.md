@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 38
 - Genèse 38
 - Gn 38
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/38
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 38

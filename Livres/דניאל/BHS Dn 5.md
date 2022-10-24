@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דניאל 5
 - Daniel 5
 - Dn 5
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דניאל 5

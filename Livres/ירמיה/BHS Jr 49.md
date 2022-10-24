@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 49
 - Jérémie 49
 - Jr 49
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/49
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 49

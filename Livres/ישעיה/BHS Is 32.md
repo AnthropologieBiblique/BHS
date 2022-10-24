@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 32
 - Isaïe 32
 - Is 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/32
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 32

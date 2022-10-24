@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 5
 - Ézéchiel 5
 - Ez 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 5

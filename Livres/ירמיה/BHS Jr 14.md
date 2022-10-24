@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 14
 - Jérémie 14
 - Jr 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/14
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 14

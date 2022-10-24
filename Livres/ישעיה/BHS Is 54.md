@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 54
 - Isaïe 54
 - Is 54
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/54
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 54

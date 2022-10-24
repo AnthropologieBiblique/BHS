@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 3
 - Lévitique 3
 - Lv 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - אסתר 6
 - Esther 6
 - Est 6
@@ -7,6 +7,7 @@ tags :
 - Bible/Est/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # אסתר 6

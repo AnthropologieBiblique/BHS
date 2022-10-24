@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 25
 - Nombres 25
 - Nb 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/25
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 25

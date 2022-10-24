@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שיר השירים 5
 - Cantique des cantiques 5
 - Ct 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שיר השירים 5

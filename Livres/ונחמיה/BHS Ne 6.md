@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ונחמיה 6
 - Néhémie 6
 - Ne 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ונחמיה 6

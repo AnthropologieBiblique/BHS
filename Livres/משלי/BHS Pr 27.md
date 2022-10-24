@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - משלי 27
 - Proverbes 27
 - Pr 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/27
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # משלי 27

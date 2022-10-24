@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - קהלת 3
 - Ecclésiaste 3
 - Qo 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # קהלת 3

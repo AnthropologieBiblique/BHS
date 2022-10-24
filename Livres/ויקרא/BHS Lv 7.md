@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 7
 - Lévitique 7
 - Lv 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/7
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 7

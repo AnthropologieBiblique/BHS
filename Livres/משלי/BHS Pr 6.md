@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - משלי 6
 - Proverbes 6
 - Pr 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # משלי 6

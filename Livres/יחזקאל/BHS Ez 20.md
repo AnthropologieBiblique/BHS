@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 20
 - Ézéchiel 20
 - Ez 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/20
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 20

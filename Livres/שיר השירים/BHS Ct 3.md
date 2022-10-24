@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שיר השירים 3
 - Cantique des cantiques 3
 - Ct 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שיר השירים 3

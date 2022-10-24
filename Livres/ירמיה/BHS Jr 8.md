@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 8
 - Jérémie 8
 - Jr 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 8

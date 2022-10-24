@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 30 (29)
 - Psaumes 30 (29)
 - Ps 30 (29)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/30_29
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 30 (29)

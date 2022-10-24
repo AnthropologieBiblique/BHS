@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - זכריה
 - Zacharie
 - Za
@@ -8,6 +8,7 @@ tags :
 - Bible/Za
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # זכריה

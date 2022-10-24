@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 47
 - Isaïe 47
 - Is 47
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/47
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 47

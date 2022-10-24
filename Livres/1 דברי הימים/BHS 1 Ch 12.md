@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 דברי הימים 12
 - 1 Chroniques 12
 - 1 Ch 12
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/12
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 דברי הימים 12

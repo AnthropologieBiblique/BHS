@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 42 (41)
 - Psaumes 42 (41)
 - Ps 42 (41)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/42_41
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 42 (41)

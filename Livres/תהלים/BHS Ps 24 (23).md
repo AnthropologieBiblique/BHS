@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 24 (23)
 - Psaumes 24 (23)
 - Ps 24 (23)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/24_23
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 24 (23)

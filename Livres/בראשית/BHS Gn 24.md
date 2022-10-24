@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 24
 - Genèse 24
 - Gn 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/24
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 24

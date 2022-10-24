@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 40
 - Isaïe 40
 - Is 40
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/40
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 40

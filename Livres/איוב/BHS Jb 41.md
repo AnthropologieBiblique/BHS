@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 41
 - Job 41
 - Jb 41
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/41
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 41

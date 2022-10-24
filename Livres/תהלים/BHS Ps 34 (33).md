@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 34 (33)
 - Psaumes 34 (33)
 - Ps 34 (33)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/34_33
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 34 (33)

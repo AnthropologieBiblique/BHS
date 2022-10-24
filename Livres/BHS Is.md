@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה
 - Isaïe
 - Is
@@ -8,6 +8,7 @@ tags :
 - Bible/Is
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה

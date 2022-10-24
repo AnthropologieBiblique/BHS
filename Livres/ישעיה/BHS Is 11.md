@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 11
 - Isaïe 11
 - Is 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/11
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 11

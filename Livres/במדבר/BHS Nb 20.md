@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 20
 - Nombres 20
 - Nb 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/20
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 20

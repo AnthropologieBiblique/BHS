@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - קהלת 12
 - Ecclésiaste 12
 - Qo 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/12
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # קהלת 12

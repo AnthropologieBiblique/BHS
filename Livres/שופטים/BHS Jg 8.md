@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שופטים 8
 - Juges 8
 - Jg 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שופטים 8

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - מלאכי 3
 - Malachie 3
 - Ml 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ml/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # מלאכי 3

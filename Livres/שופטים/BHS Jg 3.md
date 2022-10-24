@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שופטים 3
 - Juges 3
 - Jg 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שופטים 3

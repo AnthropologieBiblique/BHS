@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 12
 - Job 12
 - Jb 12
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/12
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 12

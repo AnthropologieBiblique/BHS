@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 42
 - Isaïe 42
 - Is 42
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/42
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 42

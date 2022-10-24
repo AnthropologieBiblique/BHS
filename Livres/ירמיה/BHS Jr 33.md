@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 33
 - Jérémie 33
 - Jr 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/33
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 33

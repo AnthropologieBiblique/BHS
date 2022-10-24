@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 75 (74)
 - Psaumes 75 (74)
 - Ps 75 (74)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/75_74
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 75 (74)

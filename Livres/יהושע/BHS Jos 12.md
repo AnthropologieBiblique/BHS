@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יהושע 12
 - Josué 12
 - Jos 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/12
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יהושע 12

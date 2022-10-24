@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 34
 - Ézéchiel 34
 - Ez 34
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/34
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 34

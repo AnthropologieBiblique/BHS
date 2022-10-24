@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 5
 - Exode 5
 - Ex 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 16 (15)
 - Psaumes 16 (15)
 - Ps 16 (15)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/16_15
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 16 (15)

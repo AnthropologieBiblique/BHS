@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 41
 - Jérémie 41
 - Jr 41
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/41
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 41

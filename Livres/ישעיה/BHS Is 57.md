@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 57
 - Isaïe 57
 - Is 57
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/57
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 57

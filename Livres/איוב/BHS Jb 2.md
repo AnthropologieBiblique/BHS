@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 2
 - Job 2
 - Jb 2
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/2
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 2

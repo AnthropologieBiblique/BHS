@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 שמואל 8
 - 2 Samuel 8
 - 2 S 8
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 שמואל 8

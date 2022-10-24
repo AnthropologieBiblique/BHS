@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דניאל
 - Daniel
 - Dn
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דניאל

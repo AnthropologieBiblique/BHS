@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 65
 - Isaïe 65
 - Is 65
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/65
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 65

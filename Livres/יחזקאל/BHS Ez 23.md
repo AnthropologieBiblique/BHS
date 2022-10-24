@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 23
 - Ézéchiel 23
 - Ez 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/23
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 23

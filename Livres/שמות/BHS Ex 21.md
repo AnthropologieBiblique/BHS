@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 21
 - Exode 21
 - Ex 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/21
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 21

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 דברי הימים 29
 - 1 Chroniques 29
 - 1 Ch 29
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/29
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 דברי הימים 29

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 1
 - Exode 1
 - Ex 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/1
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 1

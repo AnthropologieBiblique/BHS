@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 94 (93)
 - Psaumes 94 (93)
 - Ps 94 (93)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/94_93
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 94 (93)

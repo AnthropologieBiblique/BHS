@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 43
 - Genèse 43
 - Gn 43
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/43
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 43

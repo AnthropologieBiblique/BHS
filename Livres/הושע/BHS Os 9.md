@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - הושע 9
 - Osée 9
 - Os 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # הושע 9

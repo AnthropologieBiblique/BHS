@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - חבקוק
 - Habaquq
 - Ha
@@ -8,6 +8,7 @@ tags :
 - Bible/Ha
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # חבקוק

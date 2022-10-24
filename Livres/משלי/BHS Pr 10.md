@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - משלי 10
 - Proverbes 10
 - Pr 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/10
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # משלי 10

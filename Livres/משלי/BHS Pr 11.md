@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - משלי 11
 - Proverbes 11
 - Pr 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/11
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # משלי 11

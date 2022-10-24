@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 דברי הימים 6
 - 1 Chroniques 6
 - 1 Ch 6
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 דברי הימים 6

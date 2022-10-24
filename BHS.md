@@ -1,11 +1,8 @@
 ---
 tags : Bible, hébreu
 cssclass : hébreu
+direction : rtl
 ---
-
-
-TEST
-
 # Hebrew BHS accents
 
 [[BHS Mentions légales]]

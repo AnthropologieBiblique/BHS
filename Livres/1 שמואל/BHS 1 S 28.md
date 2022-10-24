@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 שמואל 28
 - 1 Samuel 28
 - 1 S 28
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/28
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 שמואל 28

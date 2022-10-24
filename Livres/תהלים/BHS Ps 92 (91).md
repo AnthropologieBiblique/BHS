@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 92 (91)
 - Psaumes 92 (91)
 - Ps 92 (91)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/92_91
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 92 (91)

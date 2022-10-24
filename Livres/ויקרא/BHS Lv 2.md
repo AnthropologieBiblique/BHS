@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 2
 - Lévitique 2
 - Lv 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/2
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 2

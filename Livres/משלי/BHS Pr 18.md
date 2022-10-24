@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - משלי 18
 - Proverbes 18
 - Pr 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/18
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # משלי 18

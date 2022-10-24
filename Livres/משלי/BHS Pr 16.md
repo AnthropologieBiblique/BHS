@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - משלי 16
 - Proverbes 16
 - Pr 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/16
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # משלי 16

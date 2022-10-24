@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 11
 - Nombres 11
 - Nb 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/11
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 11

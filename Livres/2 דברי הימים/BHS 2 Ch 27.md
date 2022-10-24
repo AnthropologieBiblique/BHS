@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 דברי הימים 27
 - 2 Chroniques 27
 - 2 Ch 27
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/27
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 דברי הימים 27

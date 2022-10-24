@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - הושע 6
 - Osée 6
 - Os 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # הושע 6

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 20
 - Job 20
 - Jb 20
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/20
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 20

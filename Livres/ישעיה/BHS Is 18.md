@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 18
 - Isaïe 18
 - Is 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/18
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 18

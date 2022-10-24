@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - קהלת 9
 - Ecclésiaste 9
 - Qo 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # קהלת 9

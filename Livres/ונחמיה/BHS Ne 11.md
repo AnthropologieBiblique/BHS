@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ונחמיה 11
 - Néhémie 11
 - Ne 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/11
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ונחמיה 11

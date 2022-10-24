@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 55
 - Isaïe 55
 - Is 55
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/55
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 55

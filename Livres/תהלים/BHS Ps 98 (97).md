@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 98 (97)
 - Psaumes 98 (97)
 - Ps 98 (97)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/98_97
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 98 (97)

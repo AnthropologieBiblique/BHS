@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איכה 4
 - Lamentations 4
 - Lm 4
@@ -7,6 +7,7 @@ tags :
 - Bible/Lm/4
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איכה 4

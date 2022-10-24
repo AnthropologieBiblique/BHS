@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב
 - Job
 - Jb
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב

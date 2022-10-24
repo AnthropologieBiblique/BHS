@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים 31
 - Deutéronome 31
 - Dt 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/31
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים 31

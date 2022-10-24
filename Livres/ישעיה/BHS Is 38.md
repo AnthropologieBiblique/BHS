@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 38
 - Isaïe 38
 - Is 38
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/38
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 38

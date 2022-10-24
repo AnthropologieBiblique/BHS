@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 69 (68)
 - Psaumes 69 (68)
 - Ps 69 (68)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/69_68
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 69 (68)

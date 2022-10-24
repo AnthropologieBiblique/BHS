@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 19
 - Jérémie 19
 - Jr 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/19
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 19

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - מיכה 2
 - Michée 2
 - Mi 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/2
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # מיכה 2

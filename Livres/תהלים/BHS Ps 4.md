@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 4
 - Psaumes 4
 - Ps 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/4
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 4

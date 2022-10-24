@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל
 - Ézéchiel
 - Ez
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל

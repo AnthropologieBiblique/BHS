@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - עמוס 2
 - Amos 2
 - Am 2
@@ -7,6 +7,7 @@ tags :
 - Bible/Am/2
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # עמוס 2

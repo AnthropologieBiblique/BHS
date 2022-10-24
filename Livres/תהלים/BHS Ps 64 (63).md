@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 64 (63)
 - Psaumes 64 (63)
 - Ps 64 (63)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/64_63
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 64 (63)

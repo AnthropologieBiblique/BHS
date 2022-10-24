@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 מלכים 5
 - 2 Rois 5
 - 2 R 5
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 מלכים 5

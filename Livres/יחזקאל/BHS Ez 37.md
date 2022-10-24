@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 37
 - Ézéchiel 37
 - Ez 37
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/37
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 37

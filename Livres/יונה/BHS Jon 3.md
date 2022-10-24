@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יונה 3
 - Jonas 3
 - Jon 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Jon/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יונה 3

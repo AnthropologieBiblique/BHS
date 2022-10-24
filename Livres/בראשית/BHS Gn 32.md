@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 32
 - Genèse 31
 - Gn 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/31
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 32

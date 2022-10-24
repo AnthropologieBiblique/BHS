@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 מלכים 3
 - 1 Rois 3
 - 1 R 3
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 מלכים 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 15
 - Lévitique 15
 - Lv 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/15
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 15

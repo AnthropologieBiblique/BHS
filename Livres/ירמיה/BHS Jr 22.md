@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 22
 - Jérémie 22
 - Jr 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/22
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 22

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - עזרא 9
 - Esdras 9
 - Esd 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # עזרא 9

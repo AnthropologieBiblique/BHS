@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 27
 - Jérémie 27
 - Jr 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/27
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 27

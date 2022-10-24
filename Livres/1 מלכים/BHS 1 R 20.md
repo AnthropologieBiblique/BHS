@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 מלכים 20
 - 1 Rois 20
 - 1 R 20
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/20
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 מלכים 20

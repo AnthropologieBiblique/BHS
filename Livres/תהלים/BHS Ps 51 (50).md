@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 51 (50)
 - Psaumes 51 (50)
 - Ps 51 (50)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/51_50
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 51 (50)

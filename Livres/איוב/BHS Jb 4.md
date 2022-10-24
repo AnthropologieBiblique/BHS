@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 4
 - Job 4
 - Jb 4
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/4
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 4

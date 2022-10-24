@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 26
 - Job 26
 - Jb 26
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/26
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 26

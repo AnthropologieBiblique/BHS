@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 2
 - Nombres 2
 - Nb 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/2
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 2

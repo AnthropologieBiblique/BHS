@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 13
 - Jérémie 13
 - Jr 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/13
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 13

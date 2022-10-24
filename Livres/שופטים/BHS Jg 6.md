@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שופטים 6
 - Juges 6
 - Jg 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שופטים 6

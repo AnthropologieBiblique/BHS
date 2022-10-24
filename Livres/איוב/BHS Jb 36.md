@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 36
 - Job 36
 - Jb 36
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/36
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 36

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 מלכים 11
 - 2 Rois 11
 - 2 R 11
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/11
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 מלכים 11

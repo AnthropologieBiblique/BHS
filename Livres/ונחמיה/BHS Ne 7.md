@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ונחמיה 7
 - Néhémie 7
 - Ne 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/7
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ונחמיה 7

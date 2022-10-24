@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 מלכים 22
 - 1 Rois 22
 - 1 R 22
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/22
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 מלכים 22

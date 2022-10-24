@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ונחמיה 13
 - Néhémie 13
 - Ne 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/13
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ונחמיה 13

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שיר השירים 7
 - Cantique des cantiques 6
 - Ct 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שיר השירים 7

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שופטים 7
 - Juges 7
 - Jg 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/7
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שופטים 7

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 50
 - Genèse 50
 - Gn 50
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/50
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 50

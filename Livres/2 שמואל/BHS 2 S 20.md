@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 שמואל 20
 - 2 Samuel 20
 - 2 S 20
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/20
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 שמואל 20

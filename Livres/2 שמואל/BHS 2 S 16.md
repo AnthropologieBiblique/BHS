@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 שמואל 16
 - 2 Samuel 16
 - 2 S 16
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/16
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 שמואל 16

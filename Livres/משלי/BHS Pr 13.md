@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - משלי 13
 - Proverbes 13
 - Pr 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/13
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # משלי 13

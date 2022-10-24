@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 26
 - Nombres 26
 - Nb 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/26
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 26

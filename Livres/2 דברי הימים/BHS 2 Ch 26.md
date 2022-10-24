@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 דברי הימים 26
 - 2 Chroniques 26
 - 2 Ch 26
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/26
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 דברי הימים 26

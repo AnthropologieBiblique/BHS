@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 18
 - Ézéchiel 18
 - Ez 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/18
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 18

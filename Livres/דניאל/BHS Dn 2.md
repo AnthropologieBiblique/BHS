@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דניאל 2
 - Daniel 2
 - Dn 2
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/2
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דניאל 2

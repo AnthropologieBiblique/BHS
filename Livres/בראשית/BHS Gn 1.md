@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 1
 - Genèse 1
 - Gn 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/1
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 1

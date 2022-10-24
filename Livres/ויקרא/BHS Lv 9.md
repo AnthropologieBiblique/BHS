@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 9
 - Lévitique 9
 - Lv 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 9

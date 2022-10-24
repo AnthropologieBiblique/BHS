@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 39
 - Job 39
 - Jb 39
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/39
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 39

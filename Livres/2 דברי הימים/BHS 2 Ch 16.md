@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 דברי הימים 16
 - 2 Chroniques 16
 - 2 Ch 16
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/16
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 דברי הימים 16

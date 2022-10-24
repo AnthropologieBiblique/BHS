@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שיר השירים
 - Cantique des cantiques
 - Ct
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שיר השירים

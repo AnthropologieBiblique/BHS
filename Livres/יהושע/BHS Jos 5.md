@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יהושע 5
 - Josué 5
 - Jos 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יהושע 5

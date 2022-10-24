@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 32
 - Jérémie 32
 - Jr 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/32
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 32

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - רות 2
 - Ruth 2
 - Rt 2
@@ -7,6 +7,7 @@ tags :
 - Bible/Rt/2
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # רות 2

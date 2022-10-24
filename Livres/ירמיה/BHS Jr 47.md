@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 47
 - Jérémie 47
 - Jr 47
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/47
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 47

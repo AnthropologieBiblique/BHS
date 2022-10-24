@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים 16
 - Deutéronome 16
 - Dt 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/16
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים 16

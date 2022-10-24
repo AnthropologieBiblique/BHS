@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 46
 - Genèse 46
 - Gn 46
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/46
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 46

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 51
 - Isaïe 51
 - Is 51
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/51
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 51

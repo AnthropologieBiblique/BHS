@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 5
 - Psaumes 5
 - Ps 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 5

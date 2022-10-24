@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 23
 - Isaïe 23
 - Is 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/23
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 23

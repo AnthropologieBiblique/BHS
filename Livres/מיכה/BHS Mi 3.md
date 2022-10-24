@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - מיכה 3
 - Michée 3
 - Mi 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # מיכה 3

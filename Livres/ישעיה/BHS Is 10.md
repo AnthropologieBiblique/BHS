@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 10
 - Isaïe 10
 - Is 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/10
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 10

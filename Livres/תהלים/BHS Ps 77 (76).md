@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 77 (76)
 - Psaumes 77 (76)
 - Ps 77 (76)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/77_76
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 77 (76)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 29
 - Isaïe 29
 - Is 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/29
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 29

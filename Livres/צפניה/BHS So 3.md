@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - צפניה 3
 - Sophonie 3
 - So 3
@@ -8,6 +8,7 @@ tags :
 - Bible/So/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # צפניה 3

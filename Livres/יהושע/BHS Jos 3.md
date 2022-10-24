@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יהושע 3
 - Josué 3
 - Jos 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יהושע 3

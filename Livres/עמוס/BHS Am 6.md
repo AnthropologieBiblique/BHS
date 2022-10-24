@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - עמוס 6
 - Amos 6
 - Am 6
@@ -7,6 +7,7 @@ tags :
 - Bible/Am/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # עמוס 6

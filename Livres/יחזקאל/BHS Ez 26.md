@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 26
 - Ézéchiel 26
 - Ez 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/26
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 26

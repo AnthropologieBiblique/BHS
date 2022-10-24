@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 שמואל 5
 - 2 Samuel 5
 - 2 S 5
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 שמואל 5

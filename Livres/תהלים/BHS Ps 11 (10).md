@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 11 (10)
 - Psaumes 11 (10)
 - Ps 11 (10)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/11_10
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 11 (10)

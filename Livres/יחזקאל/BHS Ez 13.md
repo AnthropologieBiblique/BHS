@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 13
 - Ézéchiel 13
 - Ez 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/13
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 13

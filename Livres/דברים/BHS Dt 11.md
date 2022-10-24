@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים 11
 - Deutéronome 11
 - Dt 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/11
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים 11

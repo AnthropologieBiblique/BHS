@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 22
 - Isaïe 22
 - Is 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/22
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 22

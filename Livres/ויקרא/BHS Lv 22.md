@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 22
 - Lévitique 22
 - Lv 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/22
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 22

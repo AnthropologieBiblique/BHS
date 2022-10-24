@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 11
 - Lévitique 11
 - Lv 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/11
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 11

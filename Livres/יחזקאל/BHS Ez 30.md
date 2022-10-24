@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 30
 - Ézéchiel 30
 - Ez 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/30
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 30

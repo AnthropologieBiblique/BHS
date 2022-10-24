@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 31
 - Isaïe 31
 - Is 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/31
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 31

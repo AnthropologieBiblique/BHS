@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - זכריה 5
 - Zacharie 5
 - Za 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # זכריה 5

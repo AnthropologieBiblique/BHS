@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - חגי
 - Aggée
 - Ag
@@ -8,6 +8,7 @@ tags :
 - Bible/Ag
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # חגי

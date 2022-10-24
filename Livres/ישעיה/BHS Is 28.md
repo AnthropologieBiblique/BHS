@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 28
 - Isaïe 28
 - Is 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/28
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 28

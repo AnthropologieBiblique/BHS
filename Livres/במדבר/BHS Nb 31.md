@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 31
 - Nombres 31
 - Nb 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/31
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 31

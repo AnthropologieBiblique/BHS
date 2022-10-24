@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - עמוס 8
 - Amos 8
 - Am 8
@@ -7,6 +7,7 @@ tags :
 - Bible/Am/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # עמוס 8

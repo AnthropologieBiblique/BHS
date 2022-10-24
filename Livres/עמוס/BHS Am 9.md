@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - עמוס 9
 - Amos 9
 - Am 9
@@ -7,6 +7,7 @@ tags :
 - Bible/Am/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # עמוס 9

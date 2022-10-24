@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 20
 - Isaïe 20
 - Is 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/20
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 20

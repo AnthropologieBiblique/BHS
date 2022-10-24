@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 35
 - Jérémie 35
 - Jr 35
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/35
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 35

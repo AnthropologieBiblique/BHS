@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - עמוס 4
 - Amos 4
 - Am 4
@@ -7,6 +7,7 @@ tags :
 - Bible/Am/4
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # עמוס 4

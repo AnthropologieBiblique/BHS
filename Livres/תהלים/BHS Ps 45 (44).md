@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 45 (44)
 - Psaumes 45 (44)
 - Ps 45 (44)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/45_44
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 45 (44)

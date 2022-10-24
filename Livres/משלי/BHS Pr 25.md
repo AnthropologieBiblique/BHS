@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - משלי 25
 - Proverbes 25
 - Pr 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/25
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # משלי 25

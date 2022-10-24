@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - עזרא 10
 - Esdras 10
 - Esd 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/10
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # עזרא 10

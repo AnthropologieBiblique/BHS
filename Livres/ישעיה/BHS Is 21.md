@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 21
 - Isaïe 21
 - Is 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/21
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 21

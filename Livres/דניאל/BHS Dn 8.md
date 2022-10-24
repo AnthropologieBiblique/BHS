@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דניאל 8
 - Daniel 8
 - Dn 8
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דניאל 8

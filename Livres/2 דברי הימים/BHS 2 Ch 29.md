@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 דברי הימים 29
 - 2 Chroniques 29
 - 2 Ch 29
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/29
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 דברי הימים 29

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איכה 5
 - Lamentations 5
 - Lm 5
@@ -7,6 +7,7 @@ tags :
 - Bible/Lm/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איכה 5

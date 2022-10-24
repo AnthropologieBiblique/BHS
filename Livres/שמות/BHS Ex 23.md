@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 23
 - Exode 23
 - Ex 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/23
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 23

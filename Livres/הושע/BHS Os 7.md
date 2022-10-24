@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - הושע 7
 - Osée 7
 - Os 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/7
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # הושע 7

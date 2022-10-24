@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות
 - Exode
 - Ex
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות

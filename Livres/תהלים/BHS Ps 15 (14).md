@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 15 (14)
 - Psaumes 15 (14)
 - Ps 15 (14)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/15_14
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 15 (14)

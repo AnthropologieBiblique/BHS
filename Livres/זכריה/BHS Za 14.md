@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - זכריה 14
 - Zacharie 14
 - Za 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/14
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # זכריה 14

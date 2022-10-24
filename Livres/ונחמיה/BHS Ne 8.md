@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ונחמיה 8
 - Néhémie 8
 - Ne 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/8
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ונחמיה 8

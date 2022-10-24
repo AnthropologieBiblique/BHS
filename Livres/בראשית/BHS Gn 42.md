@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 42
 - Genèse 42
 - Gn 42
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/42
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 42

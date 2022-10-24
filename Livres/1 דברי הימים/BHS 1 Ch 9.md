@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 דברי הימים 9
 - 1 Chroniques 9
 - 1 Ch 9
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/9
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 1 דברי הימים 9

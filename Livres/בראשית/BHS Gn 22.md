@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 22
 - Genèse 22
 - Gn 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/22
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 22

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - צפניה 1
 - Sophonie 1
 - So 1
@@ -8,6 +8,7 @@ tags :
 - Bible/So/1
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # צפניה 1

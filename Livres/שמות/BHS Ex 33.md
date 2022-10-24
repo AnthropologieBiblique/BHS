@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שמות 33
 - Exode 33
 - Ex 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/33
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שמות 33

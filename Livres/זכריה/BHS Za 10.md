@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - זכריה 10
 - Zacharie 10
 - Za 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/10
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # זכריה 10

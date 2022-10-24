@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים 15
 - Deutéronome 15
 - Dt 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/15
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים 15

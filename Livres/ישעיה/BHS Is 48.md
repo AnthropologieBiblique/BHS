@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 48
 - Isaïe 48
 - Is 48
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/48
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 48

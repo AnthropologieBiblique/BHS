@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - במדבר 22
 - Nombres 22
 - Nb 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/22
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # במדבר 22

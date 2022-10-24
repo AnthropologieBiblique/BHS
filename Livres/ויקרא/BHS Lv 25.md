@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 25
 - Lévitique 25
 - Lv 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/25
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 25

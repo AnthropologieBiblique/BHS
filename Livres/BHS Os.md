@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - הושע
 - Osée
 - Os
@@ -8,6 +8,7 @@ tags :
 - Bible/Os
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # הושע

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - שופטים 18
 - Juges 18
 - Jg 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/18
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # שופטים 18

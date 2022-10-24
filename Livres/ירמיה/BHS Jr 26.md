@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 26
 - Jérémie 26
 - Jr 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/26
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 26

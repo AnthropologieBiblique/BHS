@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 26
 - Genèse 26
 - Gn 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/26
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 26

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 43 (42)
 - Psaumes 43 (42)
 - Ps 43 (42)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/43_42
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 43 (42)

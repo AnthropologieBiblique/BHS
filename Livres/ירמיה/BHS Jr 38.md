@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 38
 - Jérémie 38
 - Jr 38
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/38
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 38

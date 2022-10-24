@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ויקרא 10
 - Lévitique 10
 - Lv 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/10
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ויקרא 10

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 51
 - Jérémie 51
 - Jr 51
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/51
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 51

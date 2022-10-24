@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 3
 - Genèse 3
 - Gn 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/3
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 3

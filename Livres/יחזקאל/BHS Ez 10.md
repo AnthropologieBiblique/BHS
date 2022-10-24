@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 10
 - Ézéchiel 10
 - Ez 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/10
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 10

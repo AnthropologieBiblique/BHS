@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 46
 - Ézéchiel 46
 - Ez 46
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/46
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 46

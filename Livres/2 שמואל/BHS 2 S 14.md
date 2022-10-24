@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 שמואל 14
 - 2 Samuel 14
 - 2 S 14
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/14
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 שמואל 14

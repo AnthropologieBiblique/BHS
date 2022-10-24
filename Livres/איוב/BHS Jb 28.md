@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 28
 - Job 28
 - Jb 28
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/28
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 28

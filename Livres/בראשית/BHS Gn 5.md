@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 5
 - Genèse 5
 - Gn 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 5

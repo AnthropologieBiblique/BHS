@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - זכריה 7
 - Zacharie 7
 - Za 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/7
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # זכריה 7

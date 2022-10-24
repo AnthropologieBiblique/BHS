@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - איוב 32
 - Job 32
 - Jb 32
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/32
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # איוב 32

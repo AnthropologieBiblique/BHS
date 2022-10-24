@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - בראשית 7
 - Genèse 7
 - Gn 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/7
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # בראשית 7

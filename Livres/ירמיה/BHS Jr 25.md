@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 25
 - Jérémie 25
 - Jr 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/25
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 25

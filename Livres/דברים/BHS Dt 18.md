@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - דברים 18
 - Deutéronome 18
 - Dt 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/18
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # דברים 18

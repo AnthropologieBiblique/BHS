@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יהושע 6
 - Josué 6
 - Jos 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/6
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יהושע 6

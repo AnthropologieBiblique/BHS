@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 2
 - Isaïe 2
 - Is 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/2
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 2

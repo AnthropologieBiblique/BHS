@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ירמיה 39
 - Jérémie 39
 - Jr 39
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/39
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ירמיה 39

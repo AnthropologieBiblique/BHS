@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ונחמיה
 - Néhémie
 - Ne
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ונחמיה

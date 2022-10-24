@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יחזקאל 4
 - Ézéchiel 4
 - Ez 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/4
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יחזקאל 4

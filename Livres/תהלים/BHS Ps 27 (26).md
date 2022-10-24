@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 27 (26)
 - Psaumes 27 (26)
 - Ps 27 (26)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/27_26
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 27 (26)

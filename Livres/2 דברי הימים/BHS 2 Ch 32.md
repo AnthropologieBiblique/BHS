@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 דברי הימים 32
 - 2 Chroniques 32
 - 2 Ch 32
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/32
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # 2 דברי הימים 32

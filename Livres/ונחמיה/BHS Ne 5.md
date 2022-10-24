@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ונחמיה 5
 - Néhémie 5
 - Ne 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/5
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ונחמיה 5

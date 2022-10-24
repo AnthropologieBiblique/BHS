@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - עובדיה
 - Abdias
 - Ab
@@ -8,6 +8,7 @@ tags :
 - Bible/Ab
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # עובדיה

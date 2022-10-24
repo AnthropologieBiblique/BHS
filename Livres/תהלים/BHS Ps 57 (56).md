@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - תהלים 57 (56)
 - Psaumes 57 (56)
 - Ps 57 (56)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/57_56
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # תהלים 57 (56)

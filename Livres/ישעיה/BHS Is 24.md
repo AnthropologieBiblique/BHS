@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - ישעיה 24
 - Isaïe 24
 - Is 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/24
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # ישעיה 24

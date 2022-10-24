@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - יונה 4
 - Jonas 4
 - Jon 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Jon/4
 - hébreu
 cssclass : hébreu
+direction : rtl
 ---
 
 # יונה 4
